@@ -1,2 +1,2 @@
-num = 100
+num = 100000
 print(num*num)
